@@ -27,3 +27,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amishasharma12002&show_icons=true&locale=en" alt="amishasharma12002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishasharma12002&" alt="amishasharma12002" /></p>
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZyeTQyZzNxNmlhMHE5ZG9qNjlyYWF6YjhqbXEzY2JrN3l0NTJ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AmishaSharma12002/AmishaSharma12002/output/snake.svg" alt="Snake animation" />
+
+###

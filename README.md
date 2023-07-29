@@ -3,11 +3,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishasharma12002&label=Profile%20views&color=0e75b6&style=flat" alt="amishasharma12002" /> 
-<div align="right">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZyeTQyZzNxNmlhMHE5ZG9qNjlyYWF6YjhqbXEzY2JrN3l0NTJ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif"  />
-</div>
-</p>
 
+</p>
+<div>
 - 🔭 I’m currently **Master's Student.**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, and ExpressJS**
@@ -17,6 +15,13 @@
 - ❤️‍🔥 I'm Looking to Collaborate **in Web Development Projects and Security Based tools.**
 
 - 📫 How to reach me **amishasharma0912@gmail.com**
+  
+  <div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZyeTQyZzNxNmlhMHE5ZG9qNjlyYWF6YjhqbXEzY2JrN3l0NTJ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif"  />
+</div>
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

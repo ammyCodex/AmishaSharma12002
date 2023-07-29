@@ -21,14 +21,13 @@
 </div>
 </div>
 
-<hr> 
 
 <h1 align="Center">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amisha-sharma-6470ab1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amisha-sharma-6470ab1b4/" height="30" width="40" /></a>
 <a href="https://instagram.com/ammycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ammycodes" height="30" width="40" /></a>
 </p>
-<hr>
+
 <h1 align="center">Tech Stack </h1>
 
 <h3 align="left">Languages and Tools:</h3>

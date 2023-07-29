@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amisha Sharma (AMMY)</h1>
 <h3 align="center">A passionate Full-Stack developer and Cyber security newbie India</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amishasharma12002&label=Profile%20views&color=0e75b6&style=flat" alt="amishasharma12002" /> 
 <div align="right">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZyeTQyZzNxNmlhMHE5ZG9qNjlyYWF6YjhqbXEzY2JrN3l0NTJ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif"  />
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amishasharma12002&label=Profile%20views&color=0e75b6&style=flat" alt="amishasharma12002" /> </p>
+</p>
 
 - 🔭 I’m currently **Master's Student.**
 

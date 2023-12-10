@@ -6,7 +6,7 @@
 
 </p>
 <div>
-- 🔭 I’m currently **Master's Student.**
+- 🔭 I’m currently **Master's Student**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, and ExpressJS**
 

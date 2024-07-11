@@ -15,7 +15,32 @@
 - ❤️‍🔥 I'm Looking to Collaborate **in Web Development Projects and Security Based tools.**
 
 - 📫 How to reach me **amishasharma0912@gmail.com**
+
+```GoLang
+package main
+
+import "fmt"
+
+type Person struct {
+  name string
+  username string
+  age int
+  hobbies []string
+  job string
+}
+
+func main() {
+  var me = new(Person)
   
+  me.name     = "Amisha-Sharma"
+  me.username = "AmishaSharma12002"
+  me.age      = "21"
+  me.job      = " AI/ML developer | Spring developer | Node.js developer"
+  me.hobbies  = []string{"code", "anime", "music", "Engineering"}
+  
+  fmt.Println(me)
+}
+```
   <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZyeTQyZzNxNmlhMHE5ZG9qNjlyYWF6YjhqbXEzY2JrN3l0NTJ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif"  />
 </div>

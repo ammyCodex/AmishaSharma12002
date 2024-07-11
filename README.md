@@ -34,7 +34,7 @@ func main() {
   
   me.name     = "Amisha-Sharma"
   me.username = "AmishaSharma12002"
-  me.age      = "21"
+  me.age      = "22"
   me.job      = " AI/ML developer | Spring developer | Node.js developer"
   me.hobbies  = []string{"code", "anime", "music", "Engineering"}
   

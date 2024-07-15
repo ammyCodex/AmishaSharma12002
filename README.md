@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amisha Sharma (AMMY)</h1>
-<h3 align="center">A passionate Full-Stack developer and Cyber security newbie India</h3>
+<h3 align="center">A passionate Backend developer and Cyber security newbie India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishasharma12002&label=Profile%20views&color=0e75b6&style=flat" alt="amishasharma12002" /> 
@@ -8,7 +8,7 @@
 <div>
 - 🔭 I’m currently **Master's Student**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, and ExpressJS**
+- 🌱 I’m currently learning **SpringBoot, NodeJS, Django and ExpressJS**
 
 - 👀 I’m currently Interested in **Web Development and Cyber Security.**
 

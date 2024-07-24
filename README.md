@@ -6,15 +6,13 @@
 
 </p>
 <div>
+
 - 🔭 I’m currently **Masters Student**
-
 - 🌱 I’m currently learning **SpringBoot, NodeJS, Django and ExpressJS**
-
 - 👀 I’m currently Interested in **Web Development and Cyber Security.**
-
 - ❤️‍🔥 I'm Looking to Collaborate **in Web Development Projects and Security Based tools.**
-
 - 📫 How to reach me **amishasharma0912@gmail.com**
+
 
 ```GoLang
 package main

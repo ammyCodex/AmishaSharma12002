@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amisha Sharma (AMMY)</h1>
 <h3 align="center">A passionate Backend developer and Cyber security newbie India</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ammycodes.png" alt="TryHackMe">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishasharma12002&label=Profile%20views&color=0e75b6&style=flat" alt="amishasharma12002" /> 
@@ -52,6 +53,5 @@ func main() {
 </p>
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ammycodes.png" alt="TryHackMe">
 
 

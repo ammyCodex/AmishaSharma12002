@@ -3,7 +3,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/ammycodes.png" alt="TryHackMe">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amishasharma12002&label=Profile%20views&color=0e75b6&style=flat" alt="amishasharma12002" /> 
 
 </p>
 <div>
@@ -14,6 +13,7 @@
 - ❤️‍🔥 I'm Looking to Collaborate **in Web Development Projects and Security Based tools.**
 - 📫 How to reach me **amishasharma0912@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amishasharma12002&label=Profile%20views&color=0e75b6&style=flat" alt="amishasharma12002" /> 
 
 ```GoLang
 package main
